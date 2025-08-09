@@ -115,7 +115,7 @@ const techStacks = [
   { icon: "php.svg", language: "PHP" },
   { icon: "mysql.svg", language: "MySql" },
   { icon: "csharp.svg", language: "C#" },
-  { icon: "aspnet.svg", language: "ASP.NET" },
+  { icon: "github.svg", language: "Github" },
 ];
 
 export default function FullWidthTabs() {
