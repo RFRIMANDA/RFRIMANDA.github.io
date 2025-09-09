@@ -183,7 +183,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  Menghadirkan Website Modern yang Responsif, Efisien, dan Siap Mendukung Transformasi Digital.
+                  Delivering a Modern, Responsive, and Efficient Website to Support Digital Transformation.
                 </p>
 
                 {/* Tech Stack */}

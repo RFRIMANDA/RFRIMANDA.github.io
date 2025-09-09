@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Sebagai lulusan Teknologi Informasi dan Komputer dari Politeknik Negeri Subang, saya memiliki passion dalam merancang solusi digital yang tidak hanya fungsional, tetapi juga memberikan pengalaman pengguna yang luar biasa. Setiap proyek adalah peluang untuk menciptakan dampak.
+              As a graduate of Information and Computer Technology from Politeknik Negeri Subang, I am passionate about designing digital solutions that are not only functional but also deliver an exceptional user experience. For me, every project is an opportunity to create impact.
             </p>
 
                {/* Quote Section */}
